@@ -1,0 +1,35 @@
+.actionBarContainer {
+  height: 50px;
+  display: flex;
+  1border: 1px solid black;
+}
+.actionBarContainer .status {
+  width: 30%;
+  min-width: 60px;
+  padding-top: 12px;
+}
+
+.actionBarContainer .status .statusSelect {
+  min-width: 150px;
+}
+.actionBarContainer .status .MuiInputBase-root {
+  height: 32px;
+}
+.regularInput {
+  height: 32px;
+}
+.actionBarContainer .actionsContainer .MuiIconButton-root {
+  padding-top: 16px;
+  font-size: 13px;
+  padding-right: 20px;
+}
+.actionBarContainer .actionsContainer .MuiIconButton-label {
+  align-items: flex-end;
+}
+
+.searchbarContainer {
+  margin-left: 10px;
+  padding-top: 12px;
+}
+.searchbarContainer .MuiTextField-root {
+}

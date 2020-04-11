@@ -1,0 +1,46 @@
+[
+  {
+    "id": "d95a07df-c972-4854-89b4-0e83ee7c363d",
+    "RequestTime": "03/03/2020 16:40:00",
+    "RequestedBy": "royib@gmail.com",
+    "Recipient": "Requester",
+    "sender": "test@mmm.com",
+    "subject": "give us your credit card",
+    "category": { "id": 1, "description": "Phishing" },
+    "status": { "id": 1, "description": "Open" },
+    "justification": "stam"
+  },
+  {
+    "id": "58ad3c2a-9fab-43a5-9974-f2127dc74f8b",
+    "RequestTime": "03/03/2020 10:20:00",
+    "RequestedBy": "adir@gmail.com",
+    "Recipient": "Requester",
+    "sender": "tessst@mmm.com",
+    "subject": "FWD: Bank of america, this account needs to be verified",
+    "category": { "id": 1, "description": "Phishing" },
+    "status": { "id": 1, "description": "Open" },
+    "justification": "stam"
+  },
+  {
+    "id": "5546421c-830a-462d-a582-e273d801ea1e",
+    "RequestTime": "02/03/2020 16:40:00",
+    "RequestedBy": "dddb@gmail.com",
+    "Recipient": "Requester",
+    "sender": "dfgdf@alie.com",
+    "subject": "give us your credit card",
+    "category": { "id": 2, "description": "Spam" },
+    "status": { "id": 1, "description": "Open" },
+    "justification": "stam"
+  },
+  {
+    "id": "beac8934-6e5f-474c-800a-9f0a01fe9589",
+    "RequestTime": "04/03/2020 16:40:00",
+    "RequestedBy": "royib@gmail.com",
+    "Recipient": "Requester",
+    "sender": "test@mmm.com",
+    "subject": "give us your credit card",
+    "category": { "id": 3, "description": "Malicious" },
+    "status": { "id": 1, "description": "Open" },
+    "justification": "stam"
+  }
+]

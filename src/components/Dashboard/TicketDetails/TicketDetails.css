@@ -1,0 +1,43 @@
+.ticketDetails .ticketContent {
+  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: #fff;
+  border-radius: 4px;
+  height: 210px;
+  min-height: 210px;
+  display: flex;
+  padding: 40px;
+}
+
+.ticketDetails .tabHeader {
+  width: 100px;
+  padding-bottom: 15px;
+  padding-top: 10px;
+  background-color: #ffffff;
+  z-index: 10000;
+  margin-bottom: -3px;
+  position: relative;
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+.ticketDetails .ticketContent .emailInfo {
+  width: 50%;
+  margin-right: 20px;
+}
+.ticketDetails .ticketContent .requestInfo {
+  width: 50%;
+}
+.ticketDetails .ticketContent .detailsRow {
+  display: flex;
+}
+.ticketDetails .ticketContent .rowHeader {
+  font-weight: bold;
+  color: #2e4058;
+}
+
+.ticketDetails .ticketContent .detailsRow > div {
+  width: 50%;
+  padding-top: 10px;
+}

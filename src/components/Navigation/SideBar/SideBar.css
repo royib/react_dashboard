@@ -1,0 +1,17 @@
+.sideBar ul {
+  margin-top: 35px;
+  padding: 10px;
+}
+.sideBar ul li {
+  list-style: none;
+  padding: 5px;
+  padding-left: 15px;
+}
+.sideBar ul li a {
+  text-decoration: none;
+  color: #9b9b9b;
+  font-size: 14px;
+}
+.sideBar .selected {
+  background-color: #bbe3fd;
+}
